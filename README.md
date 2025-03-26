@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thasitha Wijethunga </h1>
-<h3 align="center">A passionate Full Stack Developer from [Your Country]</h3>
+<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> 
@@ -7,10 +7,10 @@
 
 ---
 
-### 🌱 I’m currently learning **[Technology or Language]**  
-### ⚡ Fun fact **[Something interesting about you]**  
+### 🌱 I’m currently learning **React**  
+### ⚡ Fun fact ** I started coding as a hobby, and now I can’t imagine life without it!**  
 ### 💞️ I’m looking to collaborate on **open-source projects**  
-### 📫 How to reach me **your-email@example.com**  
+### 📫 How to reach me **pehesarawijethunga.com**  
 
 ---
 
