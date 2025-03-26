@@ -8,7 +8,7 @@
 ---
 
 ### 🌱 I’m currently learning **React**  
-### ⚡ Fun fact ** I started coding as a hobby, and now I can’t imagine life without it!**  
+### ⚡ Fun fact - I started coding as a hobby, and now I can’t imagine life without it!  
 ### 💞️ I’m looking to collaborate on **open-source projects**  
 ### 📫 How to reach me **pehesarawijethunga.com**  
 
